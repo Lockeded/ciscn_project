@@ -6,7 +6,7 @@
 - 提交代码：
 
   1. `git add .` 添加全部更改
-  2. `git commit "__提交消息__"`
+  2. `git commit -m "__提交消息__"`
   3. `git push origin main`  提交到main分支
 
   
